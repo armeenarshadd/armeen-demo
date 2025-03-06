@@ -1,4 +1,4 @@
 # armeen-demo
 My first Git Repository.
 <br>
-Author - Armeen Arshad
+Author - Armeen Arshad Ali
